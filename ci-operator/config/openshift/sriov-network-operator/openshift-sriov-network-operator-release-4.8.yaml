@@ -66,6 +66,14 @@ tests:
   commands: IS_CONTAINER=TRUE make fmt
   container:
     from: src
+- as: controllers
+  commands: make test-controllers
+  container:
+    from: src
+- as: pkg
+  commands: make test-pkg
+  container:
+    from: src
 zz_generated_metadata:
   branch: release-4.8
   org: openshift
