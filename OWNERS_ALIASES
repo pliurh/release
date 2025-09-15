@@ -224,25 +224,29 @@ aliases:
   sdn-approvers:
   - abhat
   - danwinship
-  - dcbw
-  - dougbtv
+  - jcaamano
   - jluhrsen
   - knobunc
-  - trozet
+  - kyrtapz
+  - pliurh
+  - tssurya
   sdn-reviewers:
   - abhat
+  - arghosh93
+  - arkadeepsen
+  - bpickard22
   - danwinship
-  - dcbw
-  - dougbtv
+  - jcaamano
   - jluhrsen
   - knobunc
-  - trozet
-  - JacobTanenbaum
-  - jcaamano
   - kyrtapz
+  - martinkennelly
+  - miheer
+  - pliurh
+  - pperiyasamy
+  - ricky-rav
   - tssurya
   - zshi-redhat
-  - pliurh
   nutanix-approvers:
   - elmiko
   - fedosin
